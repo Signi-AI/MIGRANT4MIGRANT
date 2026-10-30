@@ -140,7 +140,7 @@ psql --version
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/tajirdev/MIGRANT4MIGRANT.git
+  https://github.com/Signi-AI/MIGRANT4MIGRANT.git
    cd MIGRANT4MIGRANT
    ```
 
